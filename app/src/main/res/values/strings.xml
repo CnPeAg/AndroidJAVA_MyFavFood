@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFavFood</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="judul">Deskripsi</string>
+    <string name="konten">ini deskripsinya</string>
+    <string name="about">Hafidzuddin Kautsar Fahmi</string>
+    <string name="email">hafidzuddink@gmail.com</string>
+</resources>
